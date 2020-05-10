@@ -1,0 +1,31 @@
+﻿  DataStruct.cpp
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(197,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(189): message : во время компиляции функции-члена класс шаблон "void TwoThreeTree<int>::add(T)"
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(189): message :         with
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(189): message :         [
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(189): message :             T=int
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(189): message :         ]
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(212): message : выполняется компиляция ссылки на экземпляр шаблон функции "void TwoThreeTree<int>::add(T)"
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(212): message :         with
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(212): message :         [
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(212): message :             T=int
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(212): message :         ]
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(210): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "TwoThreeTree<int>"
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(154,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(148): message : во время компиляции функции-члена класс шаблон "void TwoThreeTree<int>::splitNode(T)"
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(148): message :         with
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(148): message :         [
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(148): message :             T=int
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(148): message :         ]
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(205): message : выполняется компиляция ссылки на экземпляр шаблон функции "void TwoThreeTree<int>::splitNode(T)"
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(205): message :         with
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(205): message :         [
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(205): message :             T=int
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(205): message :         ]
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(166,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(174,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(31,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(26): message : во время компиляции функции-члена класс шаблон "void TwoThreeTree<int>::push(TwoThreeTree<int> *)"
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(186): message : выполняется компиляция ссылки на экземпляр шаблон функции "void TwoThreeTree<int>::push(TwoThreeTree<int> *)"
+C:\Users\ilnic\source\repos\DataStruct\DataStruct\DataStruct.cpp(90,2): warning C4018: <: несоответствие типов со знаком и без знака
+  DataStruct.vcxproj -> C:\Users\ilnic\source\repos\DataStruct\Debug\DataStruct.exe
